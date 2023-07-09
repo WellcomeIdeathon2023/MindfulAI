@@ -1,0 +1,7 @@
+pandas
+graph_tool
+gravis
+numpy
+tqdm
+bs4
+seaborn

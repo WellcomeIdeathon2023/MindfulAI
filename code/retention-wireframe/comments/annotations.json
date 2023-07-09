@@ -1,0 +1,64 @@
+{
+  "comments": [
+    {
+      "canvasID": "s-d10c0613-eb95-465c-8c92-18f0774880c7",
+      "elementID": "s-Image_7",
+      "canvasURL": "screens/d10c0613-eb95-465c-8c92-18f0774880c7",
+      "author": "Pedro Javier Gómez Gálvez",
+      "authorID" : 80291464,
+      "code": 7cda219c-2e5e-4e36-b024-4d7c98e3b747,
+      "parentCode": null,
+      "content": "having a positive message is not better?",
+      "timestamp": "1688165000527",
+      "date": "June 30, 2023, 11:43 PM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": false
+    }
+    ,{
+      "canvasID": "s-f1fde6f8-6c87-4f71-bf1b-606bf23aa173",
+      "elementID": "s-Image_2",
+      "canvasURL": "screens/f1fde6f8-6c87-4f71-bf1b-606bf23aa173",
+      "author": "Pedro Javier Gómez Gálvez",
+      "authorID" : 80291464,
+      "code": 547719b6-a9b6-4f15-b3be-fd6543fcfbd9,
+      "parentCode": null,
+      "content": "I would remove google sign up...privacy",
+      "timestamp": "1688164959453",
+      "date": "June 30, 2023, 11:42 PM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": false
+    }
+    ,{
+      "canvasID": "s-411d9417-6d48-4752-9322-7bde49f9ab6d",
+      "elementID": "s-Rectangle_6",
+      "canvasURL": "screens/411d9417-6d48-4752-9322-7bde49f9ab6d",
+      "author": "Samia Mohinta",
+      "authorID" : 80243502,
+      "code": b0023244-8822-473b-9516-6feab6cce99b,
+      "parentCode": null,
+      "content": "the colors can symbolise recorded mood",
+      "timestamp": "1688492756505",
+      "date": "July 4, 2023, 6:45 PM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": false
+    }
+    ,{
+      "canvasID": "s-2e97c58d-5807-4070-9648-3770ae26f7af",
+      "elementID": "s-Image_1",
+      "canvasURL": "screens/2e97c58d-5807-4070-9648-3770ae26f7af",
+      "author": "Samia Mohinta",
+      "authorID" : 80243502,
+      "code": c0687528-672d-4ea5-bccb-57c55e348ef2,
+      "parentCode": null,
+      "content": "change otter pic",
+      "timestamp": "1688669785716",
+      "date": "July 6, 2023, 7:56 PM",
+      "fileID": "",
+      "fileName": "",
+      "isRead": true
+    }
+  ]
+}
