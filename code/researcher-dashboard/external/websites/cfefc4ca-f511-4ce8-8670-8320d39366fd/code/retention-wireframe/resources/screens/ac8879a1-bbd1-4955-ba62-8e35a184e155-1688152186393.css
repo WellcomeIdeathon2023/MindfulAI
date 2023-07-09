@@ -1,0 +1,36 @@
+#s-ac8879a1-bbd1-4955-ba62-8e35a184e155 > #backgroundBox {
+  position: absolute;
+}
+#s-ac8879a1-bbd1-4955-ba62-8e35a184e155 > #alignmentBox {
+  position: relative;
+  max-width: 430.0px;
+  max-height: 932.0px;
+  width: 100%;
+  height: 100%;
+}
+#s-ac8879a1-bbd1-4955-ba62-8e35a184e155 #s-Image {
+  position: absolute;
+  width: 405.99999999999966px;
+  height: 194.00000000000009px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-ac8879a1-bbd1-4955-ba62-8e35a184e155 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
