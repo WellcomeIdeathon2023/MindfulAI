@@ -1,0 +1,6 @@
+pandas
+parfit
+matplotlib
+numpy
+sklearn
+shap
