@@ -147,7 +147,7 @@ This [codebase](/code/dna_prediction/) includes a pipeline of:
 
 ## MindfulAI team
 ![team](assets/figures/team.png)
-Our clinician-developer multidisciplinary team comprise: [Dr James Ruffle](https://scholar.google.co.uk/citations?user=CVvowJAAAAAJ&hl=en), [Dr Amy Nelson](https://scholar.google.co.uk/citations?user=x3V1bvUAAAAJ&hl=en), [Dr Pedro Gómez Gálvez](https://scholar.google.es/citations?user=aWeyQGUAAAAJ), [Ms Samia Mohinta](https://scholar.google.com/citations?hl=en&user=8RK7cxcAAAAJ), and [Dr Kun Wang](https://www.lucy.cam.ac.uk/postdocs/kun-wang).
+Our clinician-developer multidisciplinary team comprise: [Dr James Ruffle](https://scholar.google.co.uk/citations?user=CVvowJAAAAAJ&hl=en), [Dr Amy Nelson](https://scholar.google.co.uk/citations?user=x3V1bvUAAAAJ&hl=en), [Dr Pedro Gómez Gálvez](https://scholar.google.es/citations?user=aWeyQGUAAAAJ), [Ms Samia Mohinta](https://scholar.google.com/citations?hl=en&user=8RK7cxcAAAAJ), and [Dr Kun Wang](https://scholar.google.com/citations?user=ZzJ7ef8AAAAJ&hl=en&oi=sra).
 
 ## Usage queries
 Via [GitHub issues](/issues).
