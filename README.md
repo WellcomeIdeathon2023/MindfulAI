@@ -25,7 +25,7 @@
 Welcome to the [MindfulAI team](#mindfulai-team) codebase for the [2023 Wellcome Data Science Ideathon](https://wellcome.org/grant-funding/schemes/ideathon) *Mental Health Challenge: Develop a platform for long-term participant retention.*
 
 ### The problem
-**1 in 7** people suffer with a mental health disorder. However, patient retention is a major limitation to long-term follow-up in both clinical care and the research of mental health, **rendering it difficult to innovate in**. The cause is for **multiple reasons**, not only the patient level, but also that of their researcher/healthcare provider. 
+**1 in 7** people suffer with a mental health disorder. However, patient retention is a major limitation to long-term follow-up in both clinical care and the research of mental health, **rendering it difficult to innovate in**. The cause is for **multiple reasons**, not only the patient level, but also that of their researcher and healthcare providers. 
 
 **Having spoken to patients suffering from mental health disorders, and psychiatry doctors to ascertain reasons for non-attendance in both clinical care and research**, the following key themes transpire:
 1) **Many of these disorders cause disengagement from society**. 
@@ -33,8 +33,8 @@ Welcome to the [MindfulAI team](#mindfulai-team) codebase for the [2023 Wellcome
 3) **These are heterogeneous diseases where factors affecting the individual vary greatly from one to another**.
 
 Patient non-attendance **affects all stakeholders**: 
-- 1) the **patient**, whose health - and the care they receive - is impaired.
-- 2) the **healthcare providers**, with wasted resources.
+- 1) the **patient**, whose health - and the care they receive - is impaired;
+- 2) the **healthcare providers**, with wasted resources;
 - 3) **researchers**, whose ability to study treatments is hampered.
 
 **This is a problem that no single intervention at patient, researcher, or clinician-facing levels could conceivably block.** Nor will one intervention succeed for all: **there is no ‘silver bullet’ to ensure patient retention.**
@@ -64,7 +64,7 @@ Our researcher dashboard and a patient mobile application follows Model-View-Con
 
 ## Code
 ### Quickstart
-You can start using our prototype **with only [python](https://www.python.org/) required* in **just two simple steps**:
+You can start using our prototype, *with only [python](https://www.python.org/) required*, in **just two simple steps**:
 
 1) **Using the terminal**
 ```
@@ -85,17 +85,17 @@ python -m http.server
 ### Patient mobile application
 We have equipped the [patient mobile application](/code/retention-wireframe) with **6 core functionalities** linked to the dashboard in addition to a system of push notifications, as follows:
 
-1) An **intuitive and accessible** appointment booking system that *takes into account patient and provider availability*. This feature allows patients to conveniently schedule both in-person and online appointments, offering *flexibility* that adapts to their work or daily routines. The appointments will be seamlessly synchronised with the personal calendars of both patients and clinicians. 
+1) An **intuitive and accessible** appointment booking system that *takes into account patient and provider availability*. This feature allows patients to conveniently schedule both in-person and online appointments, offering *flexibility* that adapts to their work or daily routines. The appointments will be seamlessly synchronised with the calendars of both patients and clinicians. 
    
 2) A comprehensive **appointment reminder notification system**. This not only reminds patients of their upcoming appointments but also captures potential non-attendance risk factors that are beyond the patient's control. For instance, it can alert users about transportation disruptions by interfacing with open source transit and weather information.
 
-3) A **gamification approach to maximise engagement** leveraged from a prize hub system, promoting the *use of the application*, *attendance*, *symptom recording*, and *community engagement*. By incorporating reward-like elements, **our aim is to make the patient lived experience of clinical trials more enjoyable to encourage continued engagement**.
+3) A **gamification approach to maximise engagement** leveraged from a prize hub system, promoting the *use of the application*, *attendance*, *symptom recording*, and *community involvement*. By incorporating reward-like elements, **our aim is to make the patient lived experience of clinical trials more enjoyable to encourage continued engagement**.
 
 4) A **journal** and **AI-powered chatbot** as support with **guidance and patient signposting**. The journal allows patients to track their symptoms and mood, providing *tailored information* that contributes to their overall well-being. The chatbot serves as a helpful resource with *instant support and guidance*. Collected information is fed back to the researcher's dashboard for **analytics in predicting retention** and **alerts to reduction in patient well-being**. We ensure **strict data protection** measures while collecting and analysing feedback from trials and other patient-application interactions. This allows us to gain valuable insights into patient engagement, and **forecast retention**, while improving the overall user health and experience.
    
-5) **A contact portal with specialists** in emergency situations, enabling messaging directly to the specialist via a text communication interface. **From our patient-led research, many report this as a problem that needs a solution**. We also have NGO (support lines) information built in, to be used during out-of-office NHS hours.
+5) **A contact portal with researchers and healthcare providers** in emergency situations, enabling messaging directly to the specialist via a text communication interface. **From our patient-led research, many report this as a problem that needs a solution**. We also have NGO (support lines) information built in as additional resources, for instances such as during out of NHS hours care.
 
-6) **Community engagement**. Sense of community is often loss in mental health illness, yet group activity forms an important part of patient therapy. We take this on board directly, incorporating **a supportive community recommendation system**.
+6) **Community engagement**. Sense of community is often lost in mental illness, yet group activity forms an important part of patient therapy. We take this on board directly, incorporating **a supportive community recommendation system**.
 
 
 ### Researcher dashboard
@@ -105,7 +105,7 @@ Our [researcher dashboard](/code/researcher-dashboard) is specifically **designe
 
 2) **Predictive retention**, incorporating *machine learning predictions identifying those at risk of study dropout*.
 
-3) **Calendar informatics**, with appointment management tool kits to enable more personalised patient-provider scheduling, with in-build reminders and notifications.
+3) **Calendar informatics**, with appointment management tools to enable more personalised patient-provider scheduling, with in-built reminders and notifications.
 
 
 ### Simulated data pipeline
