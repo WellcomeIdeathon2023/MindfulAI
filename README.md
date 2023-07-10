@@ -1,5 +1,5 @@
 # MindfulAI
-## Maximising patient engagement, fostering community, and facilitating patient-provider communication.
+## Maximising patient engagement, fostering community & enabling patient-provider communication.
 
 
 ![cover_image](assets/figures/end-to-end-design.png)
@@ -28,13 +28,13 @@ Welcome to the [MindfulAI team](#mindfulai-team) codebase for the [2023 Wellcome
 **1 in 7** people suffer with a mental health disorder. However, patient retention is a major limitation to long-term follow-up in both clinical care and the research of mental health, **rendering it difficult to innovate in**. The cause is for **multiple reasons**, not only the patient level, but also that of their researcher and healthcare providers. 
 
 **Having spoken to patients suffering from mental health disorders, and psychiatry doctors to ascertain reasons for non-attendance in both clinical care and research**, the following key themes transpire:
-1) **Many of these disorders cause disengagement from society**. 
+1) **Many of these disorders cause disengagement from society and community**. 
 2) With long delays between original referral and appointment, **appointments are forgotten about**. 
-3) **These are heterogeneous diseases where factors affecting the individual vary greatly from one to another**.
+3) **Mental illness is heterogeneous**, varying greatly across individuals.
 
 Patient non-attendance **affects all stakeholders**: 
-- 1) the **patient**, whose health - and the care they receive - is impaired;
-- 2) the **healthcare providers**, with wasted resources;
+- 1) the **patient**, whose health and healthcare is affected;
+- 2) the **healthcare providers**, whose ability to improve outcomes is reduced;
 - 3) **researchers**, whose ability to study treatments is hampered.
 
 **This is a problem that no single intervention at patient, researcher, or clinician-facing levels could conceivably block.** Nor will one intervention succeed for all: **there is no ‘silver bullet’ to ensure patient retention.**
