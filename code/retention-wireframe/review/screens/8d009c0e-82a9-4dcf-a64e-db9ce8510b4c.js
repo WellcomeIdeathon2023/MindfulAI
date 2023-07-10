@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688929550103.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689006973724.css" />\
       <div class="freeLayout">\
       <div id="t-Group_1" class="group firer ie-background commentable non-processed" customid="Status bar" datasizewidth="984.0px" datasizeheight="22.0px" >\
         <div id="t-Paragraph_1" class="richtext manualfit firer pageload ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Clock"   datasizewidth="36.0px" datasizeheight="20.0px" dataX="22.0" dataY="18.0" >\
@@ -187,7 +187,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
     <div id="s-8d009c0e-82a9-4dcf-a64e-db9ce8510b4c" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="calendar" width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/8d009c0e-82a9-4dcf-a64e-db9ce8510b4c-1688929550103.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/8d009c0e-82a9-4dcf-a64e-db9ce8510b4c-1689006973724.css" />\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Planning" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="lines" datasizewidth="0.0px" datasizeheight="0.0px" >\
@@ -498,6 +498,24 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
                       <span id="rtr-s-Paragraph_6_0">08:30 AM - 10:00 AM</span>\
                     </div>\
                   </div>\
+                </div>\
+              </div>\
+            </div>\
+            <div id="s-Path_24" class="path firer click commentable non-processed" customid="Mappin"   datasizewidth="34.6px" datasizeheight="42.5px" dataX="382.3" dataY="315.6"  >\
+              <div class="borderLayer">\
+              	<div class="imageViewport">\
+                	<?xml version="1.0" encoding="UTF-8"?>\
+                	<svg xmlns="http://www.w3.org/2000/svg" width="34.61589431762695" height="42.519256591796875" viewBox="382.2966031251657 315.5841979980446 34.61589431762695 42.519256591796875" preserveAspectRatio="none">\
+                	  <g>\
+                	    <defs>\
+                	      <path id="s-Path_24-8d009" d="M399.6045301902002 350.6379439353434 C400.3533118479071 350.6379439353434 401.3915778231384 347.47358390708564 401.3915778231384 342.35773783605373 L401.3915778231384 330.42033808173676 C404.26762038958714 329.54894238879416 406.36099736052313 326.61191245148865 406.36099736052313 323.1444356980411 C406.36099736052313 318.9758747533622 403.36567498619974 315.5841979980446 399.6045301902002 315.5841979980446 C395.8604243115332 315.5841979980446 392.86510193720983 318.9758747533622 392.86510193720983 323.1444356980411 C392.86510193720983 326.59296245195617 394.9414381441765 329.5299697734436 397.817482557262 330.40158340063283 L397.817482557262 342.35773783605373 C397.817482557262 347.4546112917351 398.87278744982586 350.6379439353434 399.6045301902002 350.6379439353434 Z M397.69839849288326 323.5612925121032 C396.4730829875288 323.5612925121032 395.38389231052236 322.3675741244978 395.38389231052236 320.96542732986137 C395.38389231052236 319.58220894693113 396.4730829875288 318.40744055885824 397.69839849288326 318.40744055885824 C398.9748325968721 318.40744055885824 400.0129046752442 319.58220894693113 400.0129046752442 320.96542732986137 C400.0129046752442 322.3675741244978 398.9748325968721 323.5612925121032 397.69839849288326 323.5612925121032 Z M399.6045301902002 358.1034542534955 C410.4282775976613 358.1034542534955 416.9124951112882 354.048507982698 416.9124951112882 349.38733442947137 C416.9124951112882 344.29024715151036 409.90081904823853 340.9932967500455 404.3017019175257 340.72812833953196 L404.3017019175257 344.11971977153604 C408.11377326193707 344.3092197668609 413.0322680975467 346.26091551994773 413.0322680975467 349.00833443882163 C413.0322680975467 352.2673396095855 407.382028674926 354.5221490038869 399.6045301902002 354.5221490038869 C391.82703170547444 354.5221490038869 386.1938727495132 352.28631222493607 386.1938727495132 349.00833443882163 C386.1938727495132 346.26091551994773 391.11225032368895 344.3092197668609 394.90735846287475 344.11971977153604 L394.90735846287475 340.72812833953196 C389.30828011153375 340.9932967500455 382.2966031251657 344.29024715151036 382.2966031251657 349.38733442947137 C382.2966031251657 354.048507982698 388.7807052239955 358.1034542534955 399.6045301902002 358.1034542534955 Z "></path>\
+                	    </defs>\
+                	    <g style="mix-blend-mode:normal">\
+                	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_24-8d009" fill="#4D9F30" fill-opacity="1.0"></use>\
+                	    </g>\
+                	  </g>\
+                	</svg>\
+\
                 </div>\
               </div>\
             </div>\

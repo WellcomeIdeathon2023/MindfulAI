@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688929550103.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689006973724.css" />\
       <div class="freeLayout">\
       <div id="t-Group_1" class="group firer ie-background commentable non-processed" customid="Status bar" datasizewidth="984.0px" datasizeheight="22.0px" >\
         <div id="t-Paragraph_1" class="richtext manualfit firer pageload ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Clock"   datasizewidth="36.0px" datasizeheight="20.0px" dataX="22.0" dataY="18.0" >\

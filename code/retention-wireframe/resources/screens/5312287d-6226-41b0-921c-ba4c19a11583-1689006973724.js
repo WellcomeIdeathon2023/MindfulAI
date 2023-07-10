@@ -109,5 +109,28 @@ jQuery("#simulation")
       ];
       event.data = data;
       jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Paragraph_2")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/d10c0613-eb95-465c-8c92-18f0774880c7"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
     }
   });

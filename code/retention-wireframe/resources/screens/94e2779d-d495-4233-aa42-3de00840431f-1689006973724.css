@@ -2858,11 +2858,6 @@
   width: 19.0px;
   height: 18.14562225341797px;
 }
-#s-94e2779d-d495-4233-aa42-3de00840431f #s-Path_1 {
-  position: absolute;
-  width: 26.637739181518555px;
-  height: 21.493881225585938px;
-}
 #s-94e2779d-d495-4233-aa42-3de00840431f #s-bigTitle {
   position: absolute;
   width: auto;
@@ -2898,6 +2893,11 @@
   text-decoration: none;
   font-family: 'Roboto-Regular_wgt400',Arial;
   font-size: 13.5pt;
+}
+#s-94e2779d-d495-4233-aa42-3de00840431f #s-Path_1 {
+  position: absolute;
+  width: 49.0px;
+  height: 43.223236083984375px;
 }
 #s-94e2779d-d495-4233-aa42-3de00840431f > #loadMark {
   width: 1px;

@@ -752,36 +752,10 @@ jQuery("#simulation")
             {
               "actions": [
                 {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "target": [ "#s-d7764132-dfab-4473-9dcf-aa0a8b896de5 #s-Rectangle_1" ],
-                    "attributes": {
-                      "opacity": "0.7"
-                    }
-                  },{
-                    "effect": {
-                      "type": "none",
-                      "easing": "linear",
-                      "duration": 100
-                    }
-                  } ],
-                  "exectype": "serial",
-                  "delay": 0
-                },
-                {
-                  "action": "jimChangeStyle",
-                  "parameter": [ {
-                    "target": [ "#s-d7764132-dfab-4473-9dcf-aa0a8b896de5 #s-Rectangle_1" ],
-                    "attributes": {
-                      "opacity": "1.0"
-                    }
-                  },{
-                    "effect": {
-                      "type": "none",
-                      "easing": "linear",
-                      "duration": 100
-                    }
-                  } ],
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "target": "screens/411d9417-6d48-4752-9322-7bde49f9ab6d"
+                  },
                   "exectype": "serial",
                   "delay": 0
                 }

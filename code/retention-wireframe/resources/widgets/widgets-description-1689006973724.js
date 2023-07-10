@@ -511,6 +511,10 @@
 
 			widgets.rootWidgetMap[["s-Panel_1", "84cd01c1-cede-4c22-a146-417f80b8721f"]] = ["Stacked notification", "s-Dynamic_Panel_1"]; 
 
+	widgets.descriptionMap[["s-Path_24", "8d009c0e-82a9-4dcf-a64e-db9ce8510b4c"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Path_24", "8d009c0e-82a9-4dcf-a64e-db9ce8510b4c"]] = ["Mapping", "s-Path_24"]; 
+
 	widgets.descriptionMap[["s-Path_23", "8d009c0e-82a9-4dcf-a64e-db9ce8510b4c"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Path_23", "8d009c0e-82a9-4dcf-a64e-db9ce8510b4c"]] = ["Arrow left", "s-Path_23"]; 
@@ -879,13 +883,13 @@
 
 			widgets.rootWidgetMap[["s-Path_3", "94e2779d-d495-4233-aa42-3de00840431f"]] = ["Icon select list", "s-Group_2"]; 
 
-	widgets.descriptionMap[["s-Path_1", "94e2779d-d495-4233-aa42-3de00840431f"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Path_1", "94e2779d-d495-4233-aa42-3de00840431f"]] = ["Arrow left", "s-Path_1"]; 
-
 	widgets.descriptionMap[["s-bigTitle", "94e2779d-d495-4233-aa42-3de00840431f"]] = ""; 
 
 			widgets.rootWidgetMap[["s-bigTitle", "94e2779d-d495-4233-aa42-3de00840431f"]] = ["Title / Headline", "s-bigTitle"]; 
+
+	widgets.descriptionMap[["s-Path_1", "94e2779d-d495-4233-aa42-3de00840431f"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Path_1", "94e2779d-d495-4233-aa42-3de00840431f"]] = ["Home", "s-Path_1"]; 
 
 	widgets.descriptionMap[["s-Path_4", "3e72697d-295c-42e6-8aca-97304b98ba19"]] = ""; 
 
@@ -894,6 +898,10 @@
 	widgets.descriptionMap[["s-Path_15", "3e72697d-295c-42e6-8aca-97304b98ba19"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Path_15", "3e72697d-295c-42e6-8aca-97304b98ba19"]] = ["Chevron down", "s-Path_15"]; 
+
+	widgets.descriptionMap[["s-Path_72", "3e72697d-295c-42e6-8aca-97304b98ba19"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Path_72", "3e72697d-295c-42e6-8aca-97304b98ba19"]] = ["Home", "s-Path_72"]; 
 
 	widgets.descriptionMap[["s-Rectangle_1", "93ee09ba-a213-4405-95a1-24d1ea70b764"]] = ""; 
 
@@ -926,10 +934,6 @@
 	widgets.descriptionMap[["s-Path_119", "93ee09ba-a213-4405-95a1-24d1ea70b764"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Path_119", "93ee09ba-a213-4405-95a1-24d1ea70b764"]] = ["Phone", "s-Path_119"]; 
-
-	widgets.descriptionMap[["s-Path_11", "93ee09ba-a213-4405-95a1-24d1ea70b764"]] = ""; 
-
-			widgets.rootWidgetMap[["s-Path_11", "93ee09ba-a213-4405-95a1-24d1ea70b764"]] = ["Arrow left", "s-Path_11"]; 
 
 	widgets.descriptionMap[["s-Category_1", "93ee09ba-a213-4405-95a1-24d1ea70b764"]] = ""; 
 
@@ -1090,6 +1094,10 @@
 	widgets.descriptionMap[["s-Path_24", "93ee09ba-a213-4405-95a1-24d1ea70b764"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Path_24", "93ee09ba-a213-4405-95a1-24d1ea70b764"]] = ["Home indicator", "s-Path_24"]; 
+
+	widgets.descriptionMap[["s-Path_11", "93ee09ba-a213-4405-95a1-24d1ea70b764"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Path_11", "93ee09ba-a213-4405-95a1-24d1ea70b764"]] = ["Arrow left", "s-Path_11"]; 
 
 	widgets.descriptionMap[["s-Path_12", "3301c4d1-8441-4b0b-8c75-01a7ec9ce78c"]] = ""; 
 
@@ -1374,6 +1382,10 @@
 	widgets.descriptionMap[["s-Path_2", "14923368-01de-4897-9363-b06f78ebd056"]] = ""; 
 
 			widgets.rootWidgetMap[["s-Path_2", "14923368-01de-4897-9363-b06f78ebd056"]] = ["Chevron down", "s-Path_2"]; 
+
+	widgets.descriptionMap[["s-Path_3", "14923368-01de-4897-9363-b06f78ebd056"]] = ""; 
+
+			widgets.rootWidgetMap[["s-Path_3", "14923368-01de-4897-9363-b06f78ebd056"]] = ["Home", "s-Path_3"]; 
 
 	widgets.descriptionMap[["s-Rectangle_16", "fe9b791e-80f4-42eb-85dc-a6a2157fa64e"]] = ""; 
 

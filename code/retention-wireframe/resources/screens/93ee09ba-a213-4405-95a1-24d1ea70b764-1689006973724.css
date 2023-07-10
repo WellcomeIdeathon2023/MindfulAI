@@ -503,11 +503,6 @@
   border-right-width: 0px;
   border-top-width: 0px;
 }
-#s-93ee09ba-a213-4405-95a1-24d1ea70b764 #s-Path_11 {
-  position: absolute;
-  width: 26.637739181518555px;
-  height: 21.493881225585938px;
-}
 #s-93ee09ba-a213-4405-95a1-24d1ea70b764 #s-Dynamic_Panel_1 {
   position: absolute;
   -webkit-transform: rotate(0.0deg);
@@ -2715,6 +2710,11 @@
   width: 135.0px;
   height: 5.0px;
   z-index: 100;
+}
+#s-93ee09ba-a213-4405-95a1-24d1ea70b764 #s-Path_11 {
+  position: absolute;
+  width: 45.0px;
+  height: 33.48065948486328px;
 }
 .devMobile #jim-container .ui-page {
   overflow-x: hidden;

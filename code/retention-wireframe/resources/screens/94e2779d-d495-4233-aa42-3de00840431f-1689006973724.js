@@ -467,10 +467,10 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "isbackward": true,
+                    "target": "screens/d10c0613-eb95-465c-8c92-18f0774880c7",
                     "transition": {
                       "type": "slideleft",
-                      "duration": 500
+                      "duration": 700
                     }
                   },
                   "exectype": "serial",

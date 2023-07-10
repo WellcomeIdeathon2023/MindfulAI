@@ -5,7 +5,7 @@ jQuery("#simulation")
     if(data === undefined) { data = event; }
     jEvent = jimEvent(event);
     jFirer = jEvent.getEventFirer();
-    if(jFirer.is("#s-Path_11")) {
+    if(jFirer.is("#s-Image_2")) {
       cases = [
         {
           "blocks": [
@@ -14,10 +14,10 @@ jQuery("#simulation")
                 {
                   "action": "jimNavigation",
                   "parameter": {
-                    "isbackward": true,
+                    "target": "screens/94e2779d-d495-4233-aa42-3de00840431f",
                     "transition": {
                       "type": "slideleft",
-                      "duration": 500
+                      "duration": 700
                     }
                   },
                   "exectype": "serial",
@@ -537,6 +537,33 @@ jQuery("#simulation")
                       "duration": 100
                     }
                   } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      event.data = data;
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Path_11")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimNavigation",
+                  "parameter": {
+                    "isbackward": true,
+                    "transition": {
+                      "type": "slideleft",
+                      "duration": 500
+                    }
+                  },
                   "exectype": "serial",
                   "delay": 0
                 }

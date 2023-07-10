@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688929550103.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689006973724.css" />\
       <div class="freeLayout">\
       <div id="t-Group_1" class="group firer ie-background commentable non-processed" customid="Status bar" datasizewidth="984.0px" datasizeheight="22.0px" >\
         <div id="t-Paragraph_1" class="richtext manualfit firer pageload ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Clock"   datasizewidth="36.0px" datasizeheight="20.0px" dataX="22.0" dataY="18.0" >\
@@ -187,7 +187,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
     <div id="s-94e2779d-d495-4233-aa42-3de00840431f" class="screen growth-both devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="AppointmentSettings" width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/94e2779d-d495-4233-aa42-3de00840431f-1688929550103.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/94e2779d-d495-4233-aa42-3de00840431f-1689006973724.css" />\
       <div class="freeLayout">\
       <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="457.0px" datasizeheight="890.0px" datasizewidthpx="457.0" datasizeheightpx="890.0000000000002" dataX="-8.0" dataY="59.0" >\
         <div class="backgroundLayer">\
@@ -253,7 +253,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
         </div>\
 \
         <div id="s-Group_18" class="group firer ie-background commentable non-processed" customid="Date input" datasizewidth="0.0px" datasizeheight="0.0px" >\
-          <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="mm/dd/yyyy"   datasizewidth="93.1px" datasizeheight="21.0px" dataX="75.2" dataY="334.3" >\
+          <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="mm/dd/yyyy"   datasizewidth="91.1px" datasizeheight="21.0px" dataX="75.2" dataY="334.3" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\
               <div class="imageLayer"></div>\
@@ -272,7 +272,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
           </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="date"  tabindex="-1"  /></div></div></div></div></div>\
-          <div id="s-Paragraph_11" class="richtext autofit firer commentable non-processed" customid="Date"   datasizewidth="36.9px" datasizeheight="25.0px" dataX="73.5" dataY="304.3" >\
+          <div id="s-Paragraph_11" class="richtext autofit firer commentable non-processed" customid="Date"   datasizewidth="36.8px" datasizeheight="25.0px" dataX="73.5" dataY="304.3" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\
               <div class="imageLayer"></div>\
@@ -291,7 +291,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
 \
 \
         <div id="s-Group_25" class="group firer ie-background commentable non-processed" customid="Header" datasizewidth="0.0px" datasizeheight="0.0px" >\
-          <div id="s-Paragraph_13" class="richtext autofit firer ie-background commentable non-processed" customid="Title"   datasizewidth="251.3px" datasizeheight="42.0px" dataX="68.2" dataY="252.3" >\
+          <div id="s-Paragraph_13" class="richtext autofit firer ie-background commentable non-processed" customid="Title"   datasizewidth="246.4px" datasizeheight="42.0px" dataX="68.2" dataY="252.3" >\
             <div class="backgroundLayer">\
               <div class="colorLayer"></div>\
               <div class="imageLayer"></div>\
@@ -976,7 +976,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
                     </div>\
                   </div>\
                 </div>\
-                <div id="s-Paragraph_99" class="richtext autofit firer ie-background commentable non-processed" customid="Hour"   datasizewidth="26.3px" datasizeheight="15.0px" dataX="25.0" dataY="140.5" >\
+                <div id="s-Paragraph_99" class="richtext autofit firer ie-background commentable non-processed" customid="Hour"   datasizewidth="26.1px" datasizeheight="15.0px" dataX="25.0" dataY="140.5" >\
                   <div class="backgroundLayer">\
                     <div class="colorLayer"></div>\
                     <div class="imageLayer"></div>\
@@ -1112,25 +1112,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
         </div>\
       </div>\
 \
-      <div id="s-Path_1" class="path firer click commentable non-processed" customid="Arrow left"   datasizewidth="26.6px" datasizeheight="21.5px" dataX="16.4" dataY="80.2"  >\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg xmlns="http://www.w3.org/2000/svg" width="26.637739181518555" height="21.493881225585938" viewBox="16.382896900176945 80.21301082611905 26.637739181518555 21.493881225585938" preserveAspectRatio="none">\
-          	  <g>\
-          	    <defs>\
-          	      <path id="s-Path_1-94e27" d="M16.382896900176945 90.96688970213206 C16.382896900176945 91.38267680526509 16.565831641780647 91.7984654121 16.889466270739653 92.10325074615434 L26.176700927510723 101.23576006266879 C26.514521740296125 101.55457794266715 26.880360686028922 101.70689392089845 27.288466550358443 101.70689392089845 C28.17496333056161 101.70689392089845 28.82226465282796 101.08329070684573 28.82226465282796 100.23799672462667 C28.82226465282796 99.79445880329851 28.65335577330899 99.42029567190536 28.357803405994048 99.14326265974805 L25.191740641074368 95.98346472904711 L21.1109690500404 92.31106535337216 L24.389617376322988 92.50516319204075 L41.44456791051954 92.50516319204075 C42.37333466306689 92.50516319204075 43.020637512206974 91.86768381703952 43.020637512206974 90.96688970213206 C43.020637512206974 90.0522194262761 42.37333466306689 89.41474155497674 41.44456791051954 89.41474155497674 L24.389617376322988 89.41474155497674 L21.12504224521076 89.60883788994344 L25.191740641074368 85.93644001797037 L28.357803405994048 82.7767518575067 C28.65335577330899 82.49959103068957 28.82226465282796 82.12542940299831 28.82226465282796 81.68197042601884 C28.82226465282796 80.83661328832083 28.17496333056161 80.21301082611905 27.288466550358443 80.21301082611905 C26.880360686028922 80.21301082611905 26.500433276388456 80.3654501079045 26.13459433065566 80.71189324699104 L16.889466270739653 89.81665400086314 C16.565831641780647 90.12159571991302 16.382896900176945 90.53722643805052 16.382896900176945 90.96688970213206 Z "></path>\
-          	    </defs>\
-          	    <g style="mix-blend-mode:normal">\
-          	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_1-94e27" fill="#FFFFFF" fill-opacity="1.0"></use>\
-          	    </g>\
-          	  </g>\
-          	</svg>\
-\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-bigTitle" class="richtext autofit firer ie-background commentable non-processed" customid="Your appointment, Your ch"   datasizewidth="278.0px" datasizeheight="23.0px" dataX="85.1" dataY="90.0" >\
+      <div id="s-bigTitle" class="richtext autofit firer ie-background commentable non-processed" customid="Your appointment, Your ch"   datasizewidth="274.0px" datasizeheight="23.0px" dataX="85.1" dataY="90.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1142,6 +1124,24 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
                 <span id="rtr-s-bigTitle_0">Your appointment, Your choice......</span>\
               </div>\
             </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Path_1" class="path firer click commentable non-processed" customid="Home"   datasizewidth="49.0px" datasizeheight="43.2px" dataX="5.0" dataY="76.8"  >\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+          	<?xml version="1.0" encoding="UTF-8"?>\
+          	<svg xmlns="http://www.w3.org/2000/svg" width="49.0" height="43.223236083984375" viewBox="5.000000000001002 76.77676564458878 49.0 43.223236083984375" preserveAspectRatio="none">\
+          	  <g>\
+          	    <defs>\
+          	      <path id="s-Path_1-94e27" d="M24.600000000000563 119.99999999999974 L24.600000000000563 104.74474081573706 L34.40000000000034 104.74474081573706 L34.40000000000034 119.99999999999974 L46.65000000000007 119.99999999999974 L46.65000000000007 99.65965442098282 L53.99999999999991 99.65965442098282 L29.50000000000045 76.77676564458878 L5.000000000001002 99.65965442098282 L12.350000000000838 99.65965442098282 L12.350000000000838 119.99999999999974 Z "></path>\
+          	    </defs>\
+          	    <g style="mix-blend-mode:normal">\
+          	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_1-94e27" fill="#FFFFFF" fill-opacity="1.0"></use>\
+          	    </g>\
+          	  </g>\
+          	</svg>\
+\
           </div>\
         </div>\
       </div>\
