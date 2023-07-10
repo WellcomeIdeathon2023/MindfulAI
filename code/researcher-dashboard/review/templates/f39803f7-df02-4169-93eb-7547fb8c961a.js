@@ -2,9 +2,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Toolbar y men&uacute; lateral" width="1366" height="900">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1688842448250.css" />\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/7c264bc6-6ea8-4be1-a7be-6fd6b06f4b50-1688842448250.css" />\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/c6ea69df-81be-4881-a8ce-e84662c7d36c-1688842448250.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689021694308.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/c6ea69df-81be-4881-a8ce-e84662c7d36c-1689021694308.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/7c264bc6-6ea8-4be1-a7be-6fd6b06f4b50-1689021694308.css" />\
       <div class="freeLayout">\
       <div id="t-Dynamic_Panel_5" class="dynamicpanel firer ie-background commentable pin vpin-beginning non-processed-pin non-processed" customid="Toolbar" datasizewidth="1366.0px" datasizeheight="90.0px" dataX="0.0" dataY="0.0" >\
         <div id="t-Panel_5" class="panel default firer ie-background commentable non-processed" customid="Panel"  datasizewidth="1366.0px" datasizeheight="90.0px" >\

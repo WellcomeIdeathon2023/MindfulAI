@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="m-18ed1fea-2249-4bbb-95db-351c0f6a6b2b" class="master growth-both devWeb canvas firer ie-background commentable non-processed" alignment="left" name="Footer" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/18ed1fea-2249-4bbb-95db-351c0f6a6b2b-1688842448250.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/18ed1fea-2249-4bbb-95db-351c0f6a6b2b-1689021694308.css" />\
       <div class="freeLayout">\
       <div id="Group_7" class="group firer ie-background commentable non-processed" customid="Footer" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="Rectangle_5" class="rectangle manualfit firer commentable non-processed" customid="BG"   datasizewidth="1366.0px" datasizeheight="113.0px" datasizewidthpx="1366.0" datasizeheightpx="113.0" dataX="0.0" dataY="655.0" >\

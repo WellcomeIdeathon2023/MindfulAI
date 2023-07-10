@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689006973724.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689024197689.css" />\
       <div class="freeLayout">\
       <div id="t-Group_1" class="group firer ie-background commentable non-processed" customid="Status bar" datasizewidth="984.0px" datasizeheight="22.0px" >\
         <div id="t-Paragraph_1" class="richtext manualfit firer pageload ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Clock"   datasizewidth="36.0px" datasizeheight="20.0px" dataX="22.0" dataY="18.0" >\
@@ -187,7 +187,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
     <div id="s-2e97c58d-5807-4070-9648-3770ae26f7af" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Leaderboard" width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/2e97c58d-5807-4070-9648-3770ae26f7af-1689006973724.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/2e97c58d-5807-4070-9648-3770ae26f7af-1689024197689.css" />\
       <div class="freeLayout">\
       <div id="s-Rectangle_1" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 1"   datasizewidth="433.0px" datasizeheight="796.0px" datasizewidthpx="432.99999999999955" datasizeheightpx="795.9999999999999" dataX="-2.5" dataY="55.0" >\
         <div class="backgroundLayer">\

@@ -1,0 +1,24 @@
+#t-c6fbe04b-dba7-4682-9e61-b06f147a4d33 > #backgroundBox {
+  background-color: #FFFFFF;
+  position: absolute;
+}
+#t-c6fbe04b-dba7-4682-9e61-b06f147a4d33 > #alignmentBox {
+  position: relative;
+}
+#t-c6fbe04b-dba7-4682-9e61-b06f147a4d33 #t-Image_1 {
+  position: absolute;
+  width: 79.00000000000003px;
+  height: 79.00000000000007px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+#t-c6fbe04b-dba7-4682-9e61-b06f147a4d33 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

@@ -2,9 +2,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-e25fb9ce-264b-4442-bf72-345b4c825ecf" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Toolbar y 2 men&uacute;s laterales (tree)" width="1366" height="900">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/e25fb9ce-264b-4442-bf72-345b4c825ecf-1688842448250.css" />\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/7c264bc6-6ea8-4be1-a7be-6fd6b06f4b50-1688842448250.css" />\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/c6ea69df-81be-4881-a8ce-e84662c7d36c-1688842448250.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/e25fb9ce-264b-4442-bf72-345b4c825ecf-1689021694308.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/c6ea69df-81be-4881-a8ce-e84662c7d36c-1689021694308.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/7c264bc6-6ea8-4be1-a7be-6fd6b06f4b50-1689021694308.css" />\
       <div class="freeLayout">\
       <div id="t-Dynamic_Panel_4" class="percentage dynamicpanel firer ie-background commentable pin vpin-beginning non-processed-percentage non-processed-pin non-processed" customid="Secondary side menu" datasizewidth="320.0px" datasizeheight="100.0%" dataX="0.0" dataY="0.0" >\
         <div id="t-Panel_4" class="percentage panel default firer ie-background commentable non-processed-percentage non-processed" customid="Panel"  datasizewidth="320.0px" datasizeheight="100.0%" >\
@@ -2643,8 +2643,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-f51d3d3e-4bec-4a4e-85cd-82564f94d302" class="screen growth-vertical devWeb canvas PORTRAIT firer pageload ie-background commentable non-processed" alignment="left" name="Dashboard - Predictive Modelling" width="1366" height="1140">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/f51d3d3e-4bec-4a4e-85cd-82564f94d302-1688842448250.css" />\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/e9efacb7-c362-4984-a3a9-64da7d99c8d0-1688842448250.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/f51d3d3e-4bec-4a4e-85cd-82564f94d302-1689021694308.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/e9efacb7-c362-4984-a3a9-64da7d99c8d0-1689021694308.css" />\
       <div class="freeLayout">\
       <div id="s-List-item-4_7" class="group firer ie-background commentable non-processed" customid="Text field" datasizewidth="0.0px" datasizeheight="44.0px" >\
         <div id="s-Input-text_8" class="textarea firer commentable non-processed" customid="Input-text"  datasizewidth="207.9px" datasizeheight="64.6px" dataX="338.4" dataY="717.9" ><div class="backgroundLayer">\
@@ -4202,7 +4202,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         </div>\
       </div>\
 \
-      <div id="s-Paragraph_4" class="richtext autofit firer ie-background commentable non-processed" customid="pleasedRat6"   datasizewidth="89.8px" datasizeheight="20.0px" dataX="398.0" dataY="735.0" >\
+      <div id="s-Paragraph_4" class="richtext autofit firer ie-background commentable non-processed" customid="pleasedRat6"   datasizewidth="89.8px" datasizeheight="18.0px" dataX="398.0" dataY="735.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -4232,7 +4232,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_6" class="richtext autofit firer ie-background commentable non-processed" customid="debonairSyrup7"   datasizewidth="113.0px" datasizeheight="20.0px" dataX="402.0" dataY="931.0" >\
+      <div id="s-Paragraph_6" class="richtext autofit firer ie-background commentable non-processed" customid="debonairSyrup7"   datasizewidth="113.0px" datasizeheight="18.0px" dataX="402.0" dataY="931.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -4247,7 +4247,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_7" class="richtext autofit firer ie-background commentable non-processed" customid="aloofTruffle6"   datasizewidth="88.9px" datasizeheight="20.0px" dataX="403.0" dataY="994.7" >\
+      <div id="s-Paragraph_7" class="richtext autofit firer ie-background commentable non-processed" customid="aloofTruffle6"   datasizewidth="88.9px" datasizeheight="18.0px" dataX="403.0" dataY="994.7" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -4262,7 +4262,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_8" class="richtext autofit firer ie-background commentable non-processed" customid="solidPlover1"   datasizewidth="87.2px" datasizeheight="20.0px" dataX="401.9" dataY="800.5" >\
+      <div id="s-Paragraph_8" class="richtext autofit firer ie-background commentable non-processed" customid="solidPlover1"   datasizewidth="87.2px" datasizeheight="18.0px" dataX="401.9" dataY="800.5" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -4277,7 +4277,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="64 %"   datasizewidth="36.5px" datasizeheight="20.0px" dataX="593.8" dataY="735.0" >\
+      <div id="s-Paragraph_10" class="richtext autofit firer ie-background commentable non-processed" customid="64 %"   datasizewidth="36.5px" datasizeheight="18.0px" dataX="593.8" dataY="735.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -4292,7 +4292,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_11" class="richtext autofit firer ie-background commentable non-processed" customid="53 %"   datasizewidth="36.5px" datasizeheight="20.0px" dataX="592.4" dataY="801.0" >\
+      <div id="s-Paragraph_11" class="richtext autofit firer ie-background commentable non-processed" customid="53 %"   datasizewidth="36.5px" datasizeheight="18.0px" dataX="592.4" dataY="801.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -4337,7 +4337,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_19" class="richtext autofit firer ie-background commentable non-processed" customid="0 %"   datasizewidth="27.6px" datasizeheight="20.0px" dataX="598.0" dataY="995.0" >\
+      <div id="s-Paragraph_19" class="richtext autofit firer ie-background commentable non-processed" customid="0 %"   datasizewidth="27.6px" datasizeheight="18.0px" dataX="598.0" dataY="995.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -4427,7 +4427,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_39" class="richtext manualfit firer ie-background commentable non-processed" customid="Trials are boring and do "   datasizewidth="377.6px" datasizeheight="36.0px" dataX="926.8" dataY="734.0" >\
+      <div id="s-Paragraph_39" class="richtext manualfit firer ie-background commentable non-processed" customid="Trials are tedious and do"   datasizewidth="377.6px" datasizeheight="36.0px" dataX="926.8" dataY="734.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -4436,7 +4436,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Paragraph_39_0">Trials are boring and do not feel confortable</span>\
+                <span id="rtr-s-Paragraph_39_0">Trials are tedious and do not provide a comfortable experience</span>\
               </div>\
             </div>\
           </div>\

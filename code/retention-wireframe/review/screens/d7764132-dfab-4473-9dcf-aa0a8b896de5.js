@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1" width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689006973724.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1689024197689.css" />\
       <div class="freeLayout">\
       <div id="t-Group_1" class="group firer ie-background commentable non-processed" customid="Status bar" datasizewidth="984.0px" datasizeheight="22.0px" >\
         <div id="t-Paragraph_1" class="richtext manualfit firer pageload ie-background commentable pin vpin-beginning hpin-beginning non-processed-pin non-processed" customid="Clock"   datasizewidth="36.0px" datasizeheight="20.0px" dataX="22.0" dataY="18.0" >\
@@ -187,26 +187,10 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
     <div id="s-d7764132-dfab-4473-9dcf-aa0a8b896de5" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="MyProfile" width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/d7764132-dfab-4473-9dcf-aa0a8b896de5-1689006973724.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/d7764132-dfab-4473-9dcf-aa0a8b896de5-1689024197689.css" />\
       <div class="freeLayout">\
-      <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Filled button"   datasizewidth="85.0px" datasizeheight="44.0px" dataX="337.0" dataY="70.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Button_1_0">Save</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Items list" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Rectangle_9" class="rectangle manualfit firer commentable non-processed" customid="BG"   datasizewidth="413.0px" datasizeheight="607.6px" datasizewidthpx="413.00000000000006" datasizeheightpx="607.5518443488106" dataX="9.0" dataY="131.9" >\
+        <div id="s-Rectangle_9" class="rectangle manualfit firer commentable non-processed" customid="BG"   datasizewidth="413.0px" datasizeheight="577.6px" datasizewidthpx="413.0" datasizeheightpx="577.5518443488105" dataX="9.0" dataY="131.9" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -221,6 +205,40 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
             </div>\
           </div>\
         </div>\
+\
+        <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="Item list one line" datasizewidth="0.0px" datasizeheight="0.0px" >\
+          <div id="s-Rectangle_1" class="rectangle manualfit firer click commentable non-processed" customid="BG"   datasizewidth="404.7px" datasizeheight="82.8px" datasizewidthpx="404.65656565656553" datasizeheightpx="82.82658711355566" dataX="13.2" dataY="716.0" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Rectangle_1_0"></span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+          <div id="s-Paragraph_3" class="richtext manualfit firer click ie-background commentable non-processed" customid="Item title"   datasizewidth="210.0px" datasizeheight="34.0px" dataX="31.9" dataY="742.3" >\
+            <div class="backgroundLayer">\
+              <div class="colorLayer"></div>\
+              <div class="imageLayer"></div>\
+            </div>\
+            <div class="borderLayer">\
+              <div class="paddingLayer">\
+                <div class="content">\
+                  <div class="valign">\
+                    <span id="rtr-s-Paragraph_3_0">My activity stats</span>\
+                  </div>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+\
 \
         <div id="s-Group_31" class="group firer ie-background commentable non-processed" customid="Item list one line" datasizewidth="0.0px" datasizeheight="0.0px" >\
           <div id="s-Rectangle_20" class="rectangle manualfit firer click commentable non-processed" customid="BG"   datasizewidth="404.7px" datasizeheight="82.8px" datasizewidthpx="404.65656565656553" datasizeheightpx="82.82658711355566" dataX="13.2" dataY="184.6" >\
@@ -548,8 +566,41 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
             </div>\
           </div>\
         </div>\
+        <div id="s-Path_13" class="path firer commentable non-processed" customid="Chevron right icon"   datasizewidth="16.0px" datasizeheight="14.0px" dataX="390.4" dataY="750.0"  >\
+          <div class="borderLayer">\
+          	<div class="imageViewport">\
+            	<?xml version="1.0" encoding="UTF-8"?>\
+            	<svg xmlns="http://www.w3.org/2000/svg" width="16.0" height="14.0" viewBox="390.36219683419455 750.0 16.0 14.0" preserveAspectRatio="none">\
+            	  <g>\
+            	    <defs>\
+            	      <path id="s-Path_13-d7764" d="M405.1418570949986 750.0 L398.4299930553329 760.2941173583166 L391.4469425955366 750.0 L390.36219683419455 751.6470588018738 L398.49778992303004 764.0 L406.36219683419455 751.8529410754109 Z "></path>\
+            	    </defs>\
+            	    <g transform="rotate(270.0 398.36219683419455 757.0)" style="mix-blend-mode:normal">\
+            	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_13-d7764" fill="#999999" fill-opacity="1.0"></use>\
+            	    </g>\
+            	  </g>\
+            	</svg>\
+\
+            </div>\
+          </div>\
+        </div>\
       </div>\
 \
+      <div id="s-Button_1" class="button multiline manualfit firer click commentable non-processed" customid="Filled button"   datasizewidth="85.0px" datasizeheight="44.0px" dataX="337.0" dataY="70.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Button_1_0">Save</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       <div id="s-Mask_1" class="clippingmask firer ie-background commentable non-processed" customid="Picture"   datasizewidth="0.0px" datasizeheight="0.0px" dataX="318.0" dataY="194.0"  >\
         <div class="borderLayer">\
         	<div class="imageViewport">\
@@ -665,48 +716,14 @@ var content='<div class="ui-page" deviceName="iphone14promax" deviceType="mobile
           </div>\
         </div>\
       </div>\
-\
-      <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="Item list one line" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Rectangle_1" class="rectangle manualfit firer click commentable non-processed" customid="BG"   datasizewidth="404.7px" datasizeheight="82.8px" datasizewidthpx="404.65656565656553" datasizeheightpx="82.82658711355566" dataX="13.2" dataY="716.0" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Rectangle_1_0"></span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-        <div id="s-Paragraph_3" class="richtext manualfit firer click ie-background commentable non-processed" customid="Item title"   datasizewidth="210.0px" datasizeheight="34.0px" dataX="31.9" dataY="742.3" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <div class="borderLayer">\
-            <div class="paddingLayer">\
-              <div class="content">\
-                <div class="valign">\
-                  <span id="rtr-s-Paragraph_3_0">My activity stats</span>\
-                </div>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-\
-      <div id="s-Path_10" class="path firer click commentable non-processed" customid="Chart line"   datasizewidth="57.3px" datasizeheight="49.7px" dataX="337.8" dataY="731.1"  >\
+      <div id="s-Path_10" class="path firer click commentable non-processed" customid="Chart line"   datasizewidth="57.3px" datasizeheight="49.7px" dataX="326.8" dataY="731.1"  >\
         <div class="borderLayer">\
         	<div class="imageViewport">\
           	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg xmlns="http://www.w3.org/2000/svg" width="57.33295440673828" height="49.65528106689453" viewBox="337.7722762805921 731.0669527053827 57.33295440673828 49.65528106689453" preserveAspectRatio="none">\
+          	<svg xmlns="http://www.w3.org/2000/svg" width="57.33295440673828" height="49.65528106689453" viewBox="326.7722762805921 731.0669527053827 57.33295440673828 49.65528106689453" preserveAspectRatio="none">\
           	  <g>\
           	    <defs>\
-          	      <path id="s-Path_10-d7764" d="M337.7722762805921 778.4686282585327 C337.7722762805921 779.8314048078417 338.6631943213758 780.7222318649291 340.0257633141275 780.7222318649291 L392.51085862340574 780.7222318649291 C393.95204037301295 780.7222318649291 395.10523029138255 779.6218181769024 395.10523029138255 778.1543933173897 C395.10523029138255 776.686974144358 393.95204037301295 775.5862590728373 392.51085862340574 775.5862590728373 L343.64181649717415 775.5862590728373 C343.09154852348985 775.5862590728373 342.90810548903806 775.4029041788414 342.90810548903806 774.8525437998404 L342.90810548903806 763.7425303294693 L353.70388686150653 752.6584528990286 C353.91350476809146 752.4226288446648 354.1755349702341 752.3179833777017 354.3851557200596 752.3179833777017 C354.594893042746 752.3179833777017 354.8569545205342 752.4226288446648 355.092778574898 752.6584528990286 L364.44737251127816 762.3275803168056 C365.62649846957817 763.6113488988282 366.8840324714169 764.1617092778291 368.1943370171175 764.1617092778291 C369.50434586580513 764.1617092778291 370.709706404289 763.5851171618848 371.9675389463813 762.3538148969894 L382.7370828954253 751.531798944337 L386.8510528862696 755.6720063586057 C387.9514722607773 756.7724228898729 389.4976037040822 756.1174198871494 389.91678265244195 754.5450538636605 L393.8473977492903 739.1113615121639 C394.2403392742256 737.6702039301009 392.95657069220294 736.4386372438382 391.5153832561147 736.8054920370961 L376.13398094083396 740.7359891394633 C374.5616177605856 741.1552277958738 373.88037733443764 742.6488275275196 375.00702844588875 743.7755696226671 L379.0947666997896 747.8894799054608 L368.90181486668996 758.2398449061451 C368.69222539251007 758.4756718037495 368.43016391472185 758.6065518508965 368.22057444054195 758.6065518508965 C367.9847503861782 758.6065518508965 367.74892348857384 758.4756718037495 367.51309943421006 758.2398449061451 L358.1585054978299 748.5707203316088 C356.95314495934593 747.312884946276 355.6953095740132 746.7365913705852 354.3851557200596 746.7365913705852 C353.0749990228655 746.7365913705852 351.9220507799392 747.2607114829211 350.63810023052395 748.5707203316088 L342.90810548903806 756.405417404868 L342.90810548903806 733.6610883843972 C342.90810548903806 732.2199023699293 341.8075681200492 731.0669527053827 340.3402058118278 731.0669527053827 C338.87281364958096 731.0669527053827 337.7722762805921 732.2199023699293 337.7722762805921 733.6610883843972 L337.7722762805921 778.4686282585327 Z "></path>\
+          	      <path id="s-Path_10-d7764" d="M326.7722762805921 778.4686282585327 C326.7722762805921 779.8314048078417 327.6631943213758 780.7222318649291 329.0257633141275 780.7222318649291 L381.51085862340574 780.7222318649291 C382.95204037301295 780.7222318649291 384.10523029138255 779.6218181769024 384.10523029138255 778.1543933173897 C384.10523029138255 776.686974144358 382.95204037301295 775.5862590728373 381.51085862340574 775.5862590728373 L332.64181649717415 775.5862590728373 C332.09154852348985 775.5862590728373 331.90810548903806 775.4029041788414 331.90810548903806 774.8525437998404 L331.90810548903806 763.7425303294693 L342.70388686150653 752.6584528990286 C342.91350476809146 752.4226288446648 343.1755349702341 752.3179833777017 343.3851557200596 752.3179833777017 C343.594893042746 752.3179833777017 343.8569545205342 752.4226288446648 344.092778574898 752.6584528990286 L353.44737251127816 762.3275803168056 C354.62649846957817 763.6113488988282 355.8840324714169 764.1617092778291 357.1943370171175 764.1617092778291 C358.50434586580513 764.1617092778291 359.709706404289 763.5851171618848 360.9675389463813 762.3538148969894 L371.7370828954253 751.531798944337 L375.8510528862696 755.6720063586057 C376.9514722607773 756.7724228898729 378.4976037040822 756.1174198871494 378.91678265244195 754.5450538636605 L382.8473977492903 739.1113615121639 C383.2403392742256 737.6702039301009 381.95657069220294 736.4386372438382 380.5153832561147 736.8054920370961 L365.13398094083396 740.7359891394633 C363.5616177605856 741.1552277958738 362.88037733443764 742.6488275275196 364.00702844588875 743.7755696226671 L368.0947666997896 747.8894799054608 L357.90181486668996 758.2398449061451 C357.69222539251007 758.4756718037495 357.43016391472185 758.6065518508965 357.22057444054195 758.6065518508965 C356.9847503861782 758.6065518508965 356.74892348857384 758.4756718037495 356.51309943421006 758.2398449061451 L347.1585054978299 748.5707203316088 C345.95314495934593 747.312884946276 344.6953095740132 746.7365913705852 343.3851557200596 746.7365913705852 C342.0749990228655 746.7365913705852 340.9220507799392 747.2607114829211 339.63810023052395 748.5707203316088 L331.90810548903806 756.405417404868 L331.90810548903806 733.6610883843972 C331.90810548903806 732.2199023699293 330.8075681200492 731.0669527053827 329.3402058118278 731.0669527053827 C327.87281364958096 731.0669527053827 326.7722762805921 732.2199023699293 326.7722762805921 733.6610883843972 L326.7722762805921 778.4686282585327 Z "></path>\
           	    </defs>\
           	    <g style="mix-blend-mode:normal">\
           	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Path_10-d7764" fill="#8E8E93" fill-opacity="1.0"></use>\

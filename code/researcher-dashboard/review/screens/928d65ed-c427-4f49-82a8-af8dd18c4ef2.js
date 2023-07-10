@@ -2,7 +2,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-c6fbe04b-dba7-4682-9e61-b06f147a4d33" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Logo" width="1366" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/c6fbe04b-dba7-4682-9e61-b06f147a4d33-1688842448250.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/c6fbe04b-dba7-4682-9e61-b06f147a4d33-1689021694308.css" />\
       <div class="freeLayout">\
       <div id="t-Image_1" class="image lockV firer ie-background commentable non-processed" customid="MicrosoftTeams-image"   datasizewidth="79.0px" datasizeheight="79.0px" dataX="13.0" dataY="0.0" aspectRatio="1.0"   alt="image">\
         <div class="borderLayer">\
@@ -20,8 +20,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-928d65ed-c427-4f49-82a8-af8dd18c4ef2" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Sign in - Sign up" width="1366" height="1020">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/928d65ed-c427-4f49-82a8-af8dd18c4ef2-1688842448250.css" />\
-      <link type="text/css" rel="stylesheet" href="./resources/masters/18ed1fea-2249-4bbb-95db-351c0f6a6b2b-1688842448250.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/928d65ed-c427-4f49-82a8-af8dd18c4ef2-1689021694308.css" />\
+      <link type="text/css" rel="stylesheet" href="./resources/masters/18ed1fea-2249-4bbb-95db-351c0f6a6b2b-1689021694308.css" />\
       <div class="freeLayout">\
       <div id="s-Master_item_1" class="mi-2bd2f783 m-18ed1fea-2249-4bbb-95db-351c0f6a6b2b masterinstance firer ie-background commentable hidden non-processed" master="m-18ed1fea-2249-4bbb-95db-351c0f6a6b2b" customid="Footer" datasizewidth="1366.0px" datasizeheight="1020.0px" dataX="0.0" dataY="252.0" dataAngle="0.0" >\
         <div id="mi-2bd2f783-Group_7" class="group firer ie-background commentable non-processed" customid="Footer" datasizewidth="0.0px" datasizeheight="0.0px" >\
