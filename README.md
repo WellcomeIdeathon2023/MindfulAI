@@ -43,12 +43,12 @@ Patient non-attendance **affects all stakeholders**:
 
 
 ### Our solution
-We offer a software solution incorporating an **end-to-end multimodal approach designed in mind not only of the patient, but the researcher and healthcare provider also**.
+We propose an end-to-end software solution **designed both for patients, on one interface, and researchers and healthcare providers, on another.**
 
 ![research-informed-design](assets/figures/research-informed-design.png)
 
 Our system is designed to achieve two main deliverables: 
-1) A **patient mobile application** designed to continuously **maximise engagement, facilitate communication between patient and researcher/healthcare providers, enabling support offered by a 24/7 AI advisor (chatbot)**, and instil a **unique sense of community** typically absent in not only mental health care, but also in research trials, all achievable in an *anonymised data-protected setting*. 
+1) A **patient mobile application** designed to continuously **maximise engagement, facilitate communication between patient and researcher/healthcare providers, enabling support offered by a 24/7 AI advisor (chatbot)**, and stimulate a **unique sense of community** typically absent in not only mental health care, but also in research trials, all achievable in an *anonymised data-protected setting*. 
 2) A **researcher dashboard** providing valuable cohort and individualised data-insights, **powered by machine-learning to predict non attendance at the individual patient level** in *real-time*. This predictive capability is achieved by combining information collected from the patient mobile application and in-person trial data.  Additionally, the dashboard provides **notification attendance interventions** for both patients and researchers.
 
 ### Design
