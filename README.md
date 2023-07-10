@@ -64,7 +64,7 @@ Our researcher dashboard and a patient mobile application follows Model-View-Con
 
 ## Code
 ### Quickstart
-You can start using our prototype *without any software installs required* in **just two simple steps**:
+You can start using our prototype **with only [python](https://www.python.org/) required* in **just two simple steps**:
 
 1) **Using the terminal**
 ```
