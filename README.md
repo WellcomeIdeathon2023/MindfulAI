@@ -138,9 +138,9 @@ We provide a comprehensive **machine learning** attendance and study retention p
 This [codebase](/code/dna_prediction/) includes a pipeline of:
 - Data pre-processing
 - Model training with gridsearching for hyperparameter optimisation
-- Plot diagnostics, including cross-validated receiver operator characteristics.
-- Directional feature importances to help delineate the **determinants of patient non-attendance** with [SHAPley Additive exPlanations (SHAP)](https://shap.readthedocs.io/en/latest/#).
-- **Multi-site deployment functionality**, designed to **maximise model validity and generalisability**.
+- Plot diagnostics, including cross-validated receiver operator characteristics
+- Directional feature importances to help delineate the **determinants of patient non-attendance** with [SHAPley Additive exPlanations (SHAP)](https://shap.readthedocs.io/en/latest/#)
+- **Multi-site deployment functionality**, designed to **maximise model validity and generalisability**
 - [Software requirements](/code/dna_prediction/requirements.txt)
 
 
