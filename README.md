@@ -156,20 +156,6 @@ Via [GitHub issues](/issues).
 ## License
 The code in this repository is licensed under a permissive [MIT License](LICENSE). All other content is licensed under CC BY 4.0. This means you may use any content in this repository as long as you credit the authors.
 
-
-## Important documents
-
-[Grant proposal](https://docs.google.com/document/d/18E0vn_kKEWm8t4av2vMKESG4D0ppOxcIYnY62cdOeFE/edit?usp=sharing)
-
-[Pitch deck](https://docs.google.com/presentation/d/1CfRLndU0Jgr2K3OHDAomAgBhrk93uH9bfD9Q-Wuf83s/edit?usp=sharing)
-
-[Team mood board](https://docs.google.com/presentation/d/1QeQwv7xchPC9CiCrI4cnN13w6T46su0TpLHLzxJ75lU/edit?usp=sharing)
-
-[Challenge description](https://github.com/WellcomeIdeathon2023/mental_health_challenges/tree/main/)
-
-[Initial application](https://docs.google.com/document/d/15vktVy9w2qgCcLNUS0TAojxYv0jEVSjZcaHxPAzbCDM/edit?usp=sharing)
-
-
 This is your private repository for working on the challenges in the Wellcome Data Science Ideathon. This repository is maintained and monitored by Wellcome staff and will be made public after July 13 2023. Feel free to create additional folders in this repository but please use the existing ones as follows:
 
 data - Any data that is loaded from your scripts (excluding data scraped/downloaded from the web) should be uploaded to this folder. Simulated data should be reproducible.
